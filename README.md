@@ -13,8 +13,8 @@ The main objective of this project is to develop digital methods for stabilizing
 
 * The notebook [2_implementation_of_video_stabilization.ipynb](https://github.com/centralelyon/video-stabilization/blob/main/2_implementation_of_video_stabilization.ipynb) :
 
-    	- generates artificially destabilized videos (zooming, translation, rotation, random_tranlsation/rotation).
-    	- lists state of the art methods.
+    	** generates artificially destabilized videos (zooming, translation, rotation, random_tranlsation/rotation).
+    	** lists state of the art methods.
 
 
 ## Results
