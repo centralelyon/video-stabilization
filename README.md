@@ -21,4 +21,4 @@ The main objective of this project is to develop digital methods for stabilizing
 ## Results
 
 Metric used for video stabilization : pixel shift of interest keypoints
-<img src="https://github.com/centralelyon/Sound-Detection/blob/main/results.png" alt="Results" width="700"/>
+<img src="https://github.com/centralelyon/video-stabilization/blob/main/results.png" alt="Results" width="700"/>
