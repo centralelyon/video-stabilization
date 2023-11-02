@@ -11,7 +11,7 @@ The main objective of this project is to develop digital methods for stabilizing
 	- presents state of the art methods that implement this process.
 	- defines a performance measure to assess the stabilization method.
 
-* The notebook [2_implementation_of_video_stabilization.ipynb](https://github.com/centralelyon/video-stabilization/blob/main/2_implementation_of_video_stabilization.ipynb) :
+* The notebook [2_implementation_of_video_stabilization.ipynb](https://github.com/centralelyon/video-stabilization/blob/main/2_implementation_of_video_stabilization.ipynb) d :
 
     	- generates artificially destabilized videos (zooming, translation, rotation, random_tranlsation/rotation).
     	- lists state of the art methods.
